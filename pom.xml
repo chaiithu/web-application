@@ -16,6 +16,6 @@
     </dependency>
   </dependencies>
   <build>
-    <finalName>web-application war file</finalName>
+    <finalName>ROOT war file</finalName>
   </build>
 </project>
